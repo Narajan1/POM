@@ -1,0 +1,4 @@
+# POM
+
+RUN
+npm test
