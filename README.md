@@ -1,4 +1,2 @@
-# POM
-
-RUN
+# FOR RUNNING
 npm test
